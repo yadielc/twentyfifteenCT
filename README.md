@@ -1,4 +1,4 @@
-Author: Yadiel Cabrera Alvarado
+Author: Yadiel Cabrera Alvarado<br> 
 Author URL: yadielcabrera.com
 
 This repository contains a child theme coded by me, as part of the course, "WordPress: Custom Posts and Taxonomies" on Lynda.com by Morten Rand-Hendriksen.  
